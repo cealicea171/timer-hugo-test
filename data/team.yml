@@ -1,0 +1,38 @@
+enable  : true
+title   : Our Team
+members  :
+  - name  : Joel 
+    image : images/team/team-1.jpg
+    designation : Founder
+    description : blah blah blah
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Melissa
+    image : images/team/team-2.jpg
+    designation : Event Handler / Senior Developer
+    description : does all the hard work.
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Chris
+    image : images/team/team-3.jpg
+    designation : Elastic
+    description : Elastic employee.
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  :   Cole
+    image : images/team/team-4.jpg
+    designation : Junior Developer
+    description : I am class of 2019.
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
